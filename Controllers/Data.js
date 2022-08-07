@@ -144,7 +144,7 @@ const data = (req,res)=>{
                 "Title" : " TRAINING TO FAILURE: 5 QUESTIONS YOU NEED TO ANSWER",
                 "CategoryName"  : "Fitness",
                 "PublishedDate" : "JULY 26, 2021",
-                "ImageAsset"    : "https://i1.wp.com/www.bornfitness.com/wp-content/uploads/2013/08/shutterstock_194099144-1.jpg?resize=670%2C404&ssl=1",
+                "ImageAsset"    : "https://www.americanfootballinternational.com/wp-content/uploads/2018/12/Born-Fitness-Training-to-failure-620x400.png",
                 "BlogContent"   : "Whatever your goal, the idea of seeking failure is misunderstood and misapplied, and a big reason why many people don’t see amazing results from their workouts.",
                 "Likes"         : "800K",
                 "id" : "16"
